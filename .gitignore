@@ -1,0 +1,10 @@
+bin/
+obj/
+node_modules/
+.next/
+events-api/data/
+*.user
+.vs/
+.idea/
+.github/
+next-env.d.ts
