@@ -87,7 +87,7 @@ export default function NewApplicationPage() {
 
   return (
     <section className="card">
-      <div className="centered_div"><h1>New Loan Application</h1></div>
+      <div className="centered_div"><h1>Loan Application</h1></div>
       {failure && <p className="alert">{failure}</p>}
       <form onSubmit={handleSubmit} className="form" noValidate>
         <div className="form__row">

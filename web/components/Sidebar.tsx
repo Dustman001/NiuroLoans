@@ -32,7 +32,7 @@ export function Sidebar() {
       {ready && !token && (
         <>
           <NavLink href="/login">LogIn</NavLink>
-          <NavLink href="/application">New Loan Application</NavLink>
+          <NavLink href="/application">Loan Application</NavLink>
         </>
       )}
       {ready && token && (

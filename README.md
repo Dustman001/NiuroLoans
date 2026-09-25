@@ -10,6 +10,9 @@ The .NET API sends each approved customer to a Node/Express events service, whic
 | API 2 (events) | Node 22, Express 5 | http://localhost:4000 |
 | Database | SQL Server 2022 | localhost,1433 (`sa` / `Loans_Dev_Pass123!`) |
 
+## Loom Vide walkthrough: 
+https://www.loom.com/share/0e1f4e9d6b5c4a2b8b8f4f3c5e2d1a2b
+
 ## Run everything (Docker Desktop)
 
 ```powershell
